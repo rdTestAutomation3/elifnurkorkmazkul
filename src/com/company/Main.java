@@ -11,6 +11,8 @@ public class Main {
         worker.age=30;
         worker.experience=7;
         int prim=worker.primHesapla();
+        
         System.out.println(prim);
+
     }
 }
