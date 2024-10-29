@@ -3,8 +3,6 @@ package com.company;
 public class Worker {
 
         String name;
-        String department;
-        String role;
         String title;
         int age;
         int experience;
